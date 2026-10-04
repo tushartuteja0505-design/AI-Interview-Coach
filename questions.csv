@@ -1,0 +1,21 @@
+question_id,role,topic,difficulty,question
+1,Business Analyst,SQL,Easy,What is the difference between WHERE and HAVING in SQL?
+2,Business Analyst,SQL,Medium,Explain INNER JOIN and LEFT JOIN with an example.
+3,Business Analyst,SQL,Hard,How would you identify duplicate records in a SQL table?
+4,Business Analyst,Excel,Easy,What is the difference between VLOOKUP and XLOOKUP?
+5,Business Analyst,Excel,Medium,Explain how you would create a dynamic dashboard in Excel.
+6,Business Analyst,Excel,Hard,How would you analyze a dataset containing one million rows in Excel?
+7,Business Analyst,Power BI,Easy,What is the difference between Power Query and DAX?
+8,Business Analyst,Power BI,Medium,Explain the difference between calculated columns and measures.
+9,Business Analyst,Power BI,Hard,How would you optimize a slow Power BI dashboard?
+10,Business Analyst,Statistics,Easy,What is mean median and mode?
+11,Business Analyst,Statistics,Medium,Explain standard deviation in simple terms.
+12,Business Analyst,Statistics,Hard,What is the difference between correlation and causation?
+13,Business Analyst,Python,Easy,What is a list in Python?
+14,Business Analyst,Python,Medium,Explain the difference between a list tuple and dictionary.
+15,Business Analyst,Python,Hard,How would you handle missing values using Python?
+16,Business Analyst,Case Study,Easy,How would you estimate the number of restaurants in Delhi?
+17,Business Analyst,Case Study,Medium,A company is experiencing declining sales. How would you diagnose the problem?
+18,Business Analyst,Business Strategy,Medium,What is the difference between market penetration and market development?
+19,Business Analyst,HR / Behavioral,Easy,Tell me about yourself.
+20,Business Analyst,HR / Behavioral,Medium,Tell me about a time when you faced a difficult problem.
